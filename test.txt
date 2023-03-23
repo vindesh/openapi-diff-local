@@ -1,1 +1,1 @@
-This is test file git tag version v1.1
+This is test file git tag version v1.2
